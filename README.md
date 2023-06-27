@@ -2,7 +2,6 @@
 #### I am a Java/Js developer 
 ![I am a Java/Js developer ](https://cdn.discordapp.com/attachments/1039943219473035394/1123125750254542960/Voidii-3.webp)
 
-I made this project just for fun
 
 Skills: JAVA / JS / LUA
 

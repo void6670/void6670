@@ -13,7 +13,5 @@ Skills: JAVA / JS / LUA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void6670)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/void6670)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=void6670)  
 

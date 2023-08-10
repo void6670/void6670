@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikolai
 #### I am a Java/Js developer 
-![I am a Java/Js developer ]([https://cdn.discordapp.com/attachments/1039943219473035394/1123125750254542960/Voidii-3.webp](https://cdn.discordapp.com/attachments/1016587698582073374/1139075921316417606/20230810_090055.jpg))
+![I am a Java/Js developer ]
 
 
 Skills: JAVA / JS / LUA

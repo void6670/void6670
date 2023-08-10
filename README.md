@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Nikolai
 #### I am a Java/Js developer 
-I am a Java/Js developer
-
 
 Skills: JAVA / JS / LUA / PY
 

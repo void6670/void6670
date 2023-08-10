@@ -3,7 +3,7 @@
 I am a Java/Js developer
 
 
-Skills: JAVA / JS / LUA
+Skills: JAVA / JS / LUA / PY
 
 - 🌱 I’m currently learning Rust 
 - 📫 How to reach me: Discord: voidiiii 

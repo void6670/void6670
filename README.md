@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nikolai
+### Hi there 👋, my name is Voidi
 #### I am a Java/Js developer 
 
 Skills: JAVA / JS / LUA / PY

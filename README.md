@@ -3,7 +3,7 @@
 
 Skills: JAVA / JS / LUA / PY
 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning Norhing 
 - 📫 How to reach me: Discord: voidiiii 
 
 
